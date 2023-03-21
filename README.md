@@ -59,8 +59,8 @@ IsHoliday - whether the week is a special holiday week
 
 **The Task**
 
-1. Predict the department-wide sales for each store for the following year
+1. Prediction model the sales (https://github.com/shaviram99/Retail-Sales/blob/main/Forcasting.ipynb)
 
-2. Model the effects of markdowns on holiday weeks
+2. The effects of markdowns on holiday weeks
 
 3. Provide recommended actions based on the insights drawn, with prioritization placed on largest business impact
