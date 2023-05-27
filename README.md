@@ -59,7 +59,7 @@ IsHoliday - whether the week is a special holiday week
 
 **The Task**
 
-1. Prediction model the sales (https://github.com/shaviram99/Retail-Sales/blob/main/Forcasting.ipynb)
+1. Prediction model the sales (https://drive.google.com/file/d/1rw07j8zgUWTxKpT-PcZ60mQqH-AMxvqP/view?usp=share_link)
 
 2. The effects of markdowns on holiday weeks
 
